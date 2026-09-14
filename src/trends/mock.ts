@@ -1,0 +1,25 @@
+export type MockTrend = {
+  topic: string;
+  engagement: number;
+  tickerSuggestions: string[];
+};
+
+export function mockTrends(): MockTrend[] {
+  return [
+    {
+      topic: "AI frogs taking over timelines",
+      engagement: 94200,
+      tickerSuggestions: ["$FROGAI", "$RIBBIT", "$HOPAI"],
+    },
+    {
+      topic: "Robinhood Chain memecoin season",
+      engagement: 78150,
+      tickerSuggestions: ["$RHMEME", "$CHAINBAG", "$PONSZN"],
+    },
+    {
+      topic: "Cats vs dogs online feud reignites",
+      engagement: 66340,
+      tickerSuggestions: ["$CATDOG", "$MEOWWOOF", "$PETWAR"],
+    },
+  ];
+}

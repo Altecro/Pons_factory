@@ -1,0 +1,32 @@
+{
+  "slug": "catdog",
+  "name": "Cats Vs Dogs",
+  "symbol": "CATDOG",
+  "description": "Community memecoin inspired by viral topic \"Cats vs dogs online feud reignites\" (engagement ~66340). Suggested tickers: $CATDOG, $MEOWWOOF, $PETWAR. Pure entertainment; DYOR.",
+  "lang": "fr",
+  "theme": "cyan",
+  "contract": null,
+  "logo": "launches/catdog/site/logo.svg",
+  "logoKind": "generated",
+  "social": {
+    "twitter": null,
+    "telegram": null,
+    "website": null
+  },
+  "og": {
+    "title": "Cats Vs Dogs · $CATDOG",
+    "description": "Cats Vs Dogs — riding \"Cats vs dogs online feud reignites\" vibes.",
+    "type": "website",
+    "image": null,
+    "imageNote": "Set an absolute public URL for og:image if hosting online; local logo is at site/logo.svg"
+  },
+  "generatedAt": "2026-09-14T05:49:09.725Z",
+  "paths": {
+    "launch": "launches/catdog",
+    "site": "launches/catdog/site",
+    "index": "launches/catdog/site/index.html",
+    "styles": "launches/catdog/site/styles.css",
+    "logo": "launches/catdog/site/logo.svg",
+    "meta": "launches/catdog/meta.json"
+  }
+}

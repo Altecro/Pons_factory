@@ -1,0 +1,32 @@
+{
+  "slug": "rhmeme",
+  "name": "Robinhood Chain Memecoin",
+  "symbol": "RHMEME",
+  "description": "Community memecoin inspired by viral topic \"Robinhood Chain memecoin season\" (engagement ~78150). Suggested tickers: $RHMEME, $CHAINBAG, $PONSZN. Pure entertainment; DYOR.",
+  "lang": "fr",
+  "theme": "lime",
+  "contract": null,
+  "logo": "launches/rhmeme/site/logo.svg",
+  "logoKind": "generated",
+  "social": {
+    "twitter": null,
+    "telegram": null,
+    "website": null
+  },
+  "og": {
+    "title": "Robinhood Chain Memecoin · $RHMEME",
+    "description": "Robinhood Chain Memecoin — riding \"Robinhood Chain memecoin season\" vibes.",
+    "type": "website",
+    "image": null,
+    "imageNote": "Set an absolute public URL for og:image if hosting online; local logo is at site/logo.svg"
+  },
+  "generatedAt": "2026-09-14T05:49:08.987Z",
+  "paths": {
+    "launch": "launches/rhmeme",
+    "site": "launches/rhmeme/site",
+    "index": "launches/rhmeme/site/index.html",
+    "styles": "launches/rhmeme/site/styles.css",
+    "logo": "launches/rhmeme/site/logo.svg",
+    "meta": "launches/rhmeme/meta.json"
+  }
+}

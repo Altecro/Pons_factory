@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="FROGAI mark">
+
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#b794ff"/>
+      <stop offset="100%" stop-color="#5ce1ff"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="128" height="128" rx="28" fill="#0c0618"/>
+  <g filter="url(#glow)" transform="translate(64 70)">
+    <polygon points="0,-48 42,28 -42,28" fill="#b794ff" opacity="0.95"/>
+    <polygon points="0,-20 24,24 -24,24" fill="#0c0618" opacity="0.9"/>
+    <polygon points="0,8 28,48 -28,48" fill="#5ce1ff" opacity="0.85" transform="translate(0 -8)"/>
+    <circle cx="0" cy="-8" r="6" fill="#b794ff"/>
+  </g>
+</svg>

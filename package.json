@@ -1,0 +1,23 @@
+{
+  "name": "pons-factory",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "trends": "tsx src/trends/run.ts",
+    "ideate": "tsx src/ideate/run.ts",
+    "site": "tsx src/site/run.ts",
+    "demo": "tsx src/trends/run.ts && tsx src/ideate/run.ts && tsx src/site/run.ts",
+    "factory": "tsx src/cli.ts"
+  },
+  "dependencies": {
+    "commander": "^13.1.0",
+    "dotenv": "^16.4.7",
+    "viem": "^2.23.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.4",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "novbear",
+  "name": "November Bear",
+  "symbol": "NOVBEAR",
+  "description": "The AI polar bear that sings the warning: Remember November 2026 is coming. Born from a 2023 \"future meme\" image, back with force in September 2026 on TikTok and Reels — covers, calendars, November 2026 expiration dates. NOVBEAR is the absurd prophecy. You'll get it in November. Entertainment only. Not financial advice. Not affiliated with Pons or Robinhood.",
+  "lang": "en",
+  "theme": "violet",
+  "contract": null,
+  "logo": "launches/novbear/site/logo.png",
+  "logoKind": "provided",
+  "social": {
+    "twitter": null,
+    "telegram": null,
+    "website": null
+  },
+  "og": {
+    "title": "November Bear · $NOVBEAR",
+    "description": "Remember November 2026 is coming.",
+    "type": "website",
+    "image": null,
+    "imageNote": "Set an absolute public URL for og:image if hosting online; local logo is at site/logo.png"
+  },
+  "generatedAt": "2026-09-14T08:15:26.157Z",
+  "paths": {
+    "launch": "launches/novbear",
+    "site": "launches/novbear/site",
+    "index": "launches/novbear/site/index.html",
+    "styles": "launches/novbear/site/styles.css",
+    "logo": "launches/novbear/site/logo.png",
+    "meta": "launches/novbear/meta.json"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "frogai",
+  "name": "Ai Frogs Taking",
+  "symbol": "FROGAI",
+  "description": "Community memecoin inspired by viral topic \"AI frogs taking over timelines\" (engagement ~94200). Suggested tickers: $FROGAI, $RIBBIT, $HOPAI. Pure entertainment; DYOR.",
+  "lang": "fr",
+  "theme": "violet",
+  "contract": null,
+  "logo": "launches/frogai/site/logo.svg",
+  "logoKind": "generated",
+  "social": {
+    "twitter": null,
+    "telegram": null,
+    "website": null
+  },
+  "og": {
+    "title": "Ai Frogs Taking · $FROGAI",
+    "description": "Ai Frogs Taking — riding \"AI frogs taking over timelines\" vibes.",
+    "type": "website",
+    "image": null,
+    "imageNote": "Set an absolute public URL for og:image if hosting online; local logo is at site/logo.svg"
+  },
+  "generatedAt": "2026-09-14T08:04:49.300Z",
+  "paths": {
+    "launch": "launches/frogai",
+    "site": "launches/frogai/site",
+    "index": "launches/frogai/site/index.html",
+    "styles": "launches/frogai/site/styles.css",
+    "logo": "launches/frogai/site/logo.svg",
+    "meta": "launches/frogai/meta.json"
+  }
+}
