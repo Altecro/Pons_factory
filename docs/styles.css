@@ -5,11 +5,11 @@
   --ink: #f4f1ea;
   --muted: #9a9588;
   --line: rgba(255, 255, 255, 0.08);
-  --accent: #b794ff;
+  --accent: #ff9a3c;
   --accent-2: #5ce1ff;
-  --accent-rgb: 183, 148, 255;
+  --accent-rgb: 255, 154, 60;
   --accent-2-rgb: 92, 225, 255;
-  --on-accent: #0c0618;
+  --on-accent: #140800;
   --danger: #ff6b4a;
   --radius: 18px;
   --font-display: "Syne", system-ui, sans-serif;
